@@ -109,13 +109,6 @@ dependencies = [
  "unicode-ident",
 ]
 
-[[package]]
-name = "truyenqq"
-version = "0.1.0"
-dependencies = [
- "aidoku",
- "wpcomics_template",
-]
 
 [[package]]
 name = "unicode-ident"

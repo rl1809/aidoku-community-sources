@@ -1,26 +1,22 @@
 [
 	{
 		"type": "group",
-		"title": "Cài đặt",
+		"title": "Settings",
 		"items": [
 			{
 				"type": "select",
-				"key": "pageQuality",
+				"key": "serverSelection",
 				"title": "Server",
 				"values": [
-					"9999",
-					"1200",
-					"800",
-					"600"
+					"1",
+					"2"
 				],
 				"titles": [
-					"Server Full HD",
-					"Mặc định",
 					"Server 1",
 					"Server 2"
 				],
-				"default": "1200"
+				"default": "1"
 			}
 		]
 	}
-]
+] 

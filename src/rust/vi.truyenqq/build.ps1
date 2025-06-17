@@ -20,4 +20,4 @@ function Package-Source {
 		Set-Location ../../..
 	}
 }
-Package-Source hentaivn -Build
+Package-Source truyenqq -Build 
